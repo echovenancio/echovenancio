@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 Here are some of the tools and technologies I work with:
 
 - **Languages**: `JavaScript`, `Python`, `Java`, `Go`, and more.
-- **Frameworks**: `React`, `Node.js`, `Django`, etc.
+- **Frameworks**: `React`, `Spring`, `Django`, etc.
 - **Tools**: `Git`, `Docker`, etc.
 
 ---
